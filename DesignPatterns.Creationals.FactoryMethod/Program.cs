@@ -1,4 +1,4 @@
-﻿namespace DessignPatterns.Creationals.FactoryMethod
+﻿namespace DesignPatterns.Creationals.FactoryMethod
 {
     // The Creator class declares the factory method that is supposed to return
     // an object of a Product class. The Creator's subclasses usually provide

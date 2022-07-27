@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace DessignPatterns.Structurals.Flyweight
+namespace DesignPatterns.Structurals.Flyweight
 {
     // The Flyweight stores a common portion of the state (also called intrinsic
     // state) that belongs to multiple real business entities. The Flyweight

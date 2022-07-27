@@ -1,4 +1,4 @@
-﻿namespace DessignPatterns.Structurals.Composite
+﻿namespace DesignPatterns.Structurals.Composite
 {
     // The base Component class declares common operations for both simple and
     // complex objects of a composition.

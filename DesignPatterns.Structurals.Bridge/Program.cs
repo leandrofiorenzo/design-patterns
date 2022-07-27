@@ -1,4 +1,4 @@
-﻿namespace DessignPatterns.Structurals.Bridge
+﻿namespace DesignPatterns.Structurals.Bridge
 {
     // The Abstraction defines the interface for the "control" part of the two
     // class hierarchies. It maintains a reference to an object of the

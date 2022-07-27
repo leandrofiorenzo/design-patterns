@@ -1,4 +1,4 @@
-﻿namespace DessignPatterns.Structurals.Adapter
+﻿namespace DesignPatterns.Structurals.Adapter
 {
     public interface ITarget
     {

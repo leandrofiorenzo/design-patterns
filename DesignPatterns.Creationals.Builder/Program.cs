@@ -1,4 +1,4 @@
-﻿namespace DessignPatterns.Creationals.Builder
+﻿namespace DesignPatterns.Creationals.Builder
 {// The Builder interface specifies methods for creating the different parts
     // of the Product objects.
     public interface IBuilder

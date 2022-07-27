@@ -1,4 +1,4 @@
-﻿namespace DessignPatterns.Creationals.Prototype
+﻿namespace DesignPatterns.Creationals.Prototype
 {
     public class Person
     {
