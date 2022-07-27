@@ -1,0 +1,3 @@
+﻿namespace DessignPatterns.Structurals.Proxy
+{
+}
