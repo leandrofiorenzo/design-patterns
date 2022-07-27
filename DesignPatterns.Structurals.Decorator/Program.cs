@@ -1,0 +1,4 @@
+﻿namespace DessignPatterns.Structurals.Decorator
+{
+
+}
